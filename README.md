@@ -2,7 +2,8 @@
 reactNative로 실습한 날씨앱 입니다.
 <br>
 <br>
-<img width="200" alt="스크린샷 2023-03-08 오후 7 43 27" src="https://user-images.githubusercontent.com/100771469/223692355-555b7834-11b6-4020-9f67-749a523ecb51.png">
+<img width="200" alt="스크린샷 2023-03-09 오전 12 12 00" src="https://user-images.githubusercontent.com/100771469/223751003-12a2f339-76f9-4439-b0b2-b93ec0dde0b3.png">
+
 <br>
 <br>
 >reactNative 빠른 걸음마를 위해서<br>
