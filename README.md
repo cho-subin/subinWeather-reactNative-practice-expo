@@ -1,5 +1,10 @@
-# subinWeather-reactNative-practice-expo
-
+# subinWeather-reactNative-practice-expore
+reactNative로 실습한 날씨앱 입니다.
+<br>
+<br>
+<img width="200" alt="스크린샷 2023-03-08 오후 7 43 27" src="https://user-images.githubusercontent.com/100771469/223692355-555b7834-11b6-4020-9f67-749a523ecb51.png">
+<br>
+<br>
 >reactNative 빠른 걸음마를 위해서<br>
 초기 설정이 간단하고 처음 시작을 좀더 쉽게 접근할 수 있게<br>
 React-Native-CLI가 아닌 Expo-CLI로 시작했습니다.<br>
